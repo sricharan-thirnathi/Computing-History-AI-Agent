@@ -15,3 +15,5 @@ powered by GPT-4.1-mini and web search via Azure AI Foundry.
 - Multi-turn conversation with history tracking
 - Web search tool for real-time information
 - Flask web UI + Python CLI client
+
+<img width="1825" height="949" alt="Screenshot 2026-06-11 101419" src="https://github.com/user-attachments/assets/382b7ead-ee8f-4bd9-8fb1-e092ea3a72d9" />
